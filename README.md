@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Julianioi 👋</h1>
-  <p><em>Junior student by day, Full-stack developer by night. <br> Advocate of Minimalist UI & Vibe Coding.</em></p>
+  <p><em>student by day, Full-stack developer by night. <br> Advocate of Minimalist UI & Vibe Coding.</em></p>
 </div>
 
 <br>
