@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Julianioi 👋</h1>
+  <h1>Hi, I'm Julian 👋</h1>
   <p><em>student by day, Full-stack developer by night. <br> Advocate of Minimalist UI & Vibe Coding.</em></p>
 </div>
 
